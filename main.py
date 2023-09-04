@@ -2,7 +2,7 @@ import requests
 import tkinter as tk
 import ttkbootstrap as ttk
 
-api_key = "ebaae03f5599c6c4340d35a35e18a834"
+api_key = "##add your own api key here##"
 
 
 def generate():
